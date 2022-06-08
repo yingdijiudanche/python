@@ -1,0 +1,4 @@
+/* Override base SVG style to work with Ant Design */
+svg {
+  vertical-align: initial;
+}

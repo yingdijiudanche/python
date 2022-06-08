@@ -1,0 +1,7 @@
+{
+  "printWidth": 100,
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "endOfLine": "crlf"
+}

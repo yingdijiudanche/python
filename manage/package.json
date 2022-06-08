@@ -1,0 +1,35 @@
+{
+  "name": "vite-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "antd": "^4.3.4",
+    "axios": "^0.19.2",
+    "dayjs": "^1.9.7",
+    "intl-lightly": "^1.0.3",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-highlight-words": "^0.16.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "less": "^4.1.1",
+    "prettier": "2.4.1",
+    "redux-devtools-extension": "^2.13.8",
+    "twin.macro": "^2.6.2",
+    "vite": "^2.1.2",
+    "vite-plugin-babel-macros": "^1.0.5",
+    "vite-plugin-windicss": "^1.4.5",
+    "windicss": "^3.1.7"
+  }
+}
